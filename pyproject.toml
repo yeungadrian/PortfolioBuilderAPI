@@ -42,6 +42,6 @@ exclude = '''
 | \.venv
 | _build
 | buck-out
-| build   
-)/ 
+| build
+)/
 '''
