@@ -1,5 +1,5 @@
 # PortfolioBuilderAPI
-Portfolio Builder API built using FastAPI and hosted on GCP
+Portfolio Builder API built using FastAPI and hosted on GCP.
 
 <p align="center">
 <a herf="https://github.com/yeungadrian/PortfolioAnalysis/actions/workflows/python-app.yml"> 
